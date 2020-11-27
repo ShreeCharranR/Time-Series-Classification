@@ -9,3 +9,6 @@ Using CNN
 - The following hyperparameters (kernel_size, filters, the usage of BatchNorm) via random search using [KerasTuner]https://github.com/keras-team/keras-tuner).
 
 ![image](/class1.PNG)
+
+# Model
+![mo](/model.png)
